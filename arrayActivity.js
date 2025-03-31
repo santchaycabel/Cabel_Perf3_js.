@@ -15,3 +15,13 @@ console.log("First item in mixedArr:", mixedArr[0]);
 console.log("Second item in mixedArr:", mixedArr[1]);
 console.log("Third item in mixedArr:", mixedArr[2]);
 console.log("Fourth item in mixedArr:", mixedArr[3]);
+
+*/Output:
+My first favorite singer: Moira Dela Torre
+First item in mixedArr: string
+Second item in mixedArr:
+[
+  "otherarray"
+]
+Third item in mixedArr: 123
+Fourth item in mixedArr: true
