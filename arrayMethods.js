@@ -1,6 +1,6 @@
 // 1. concat()
-let arr1 = ["Cecile", "Lone"];
-let arr2 = ["Emil", "Tobias", "Linus"];
+let arr1 = ["Santchay", "Efrelle"];
+let arr2 = ["Emil", "Mark", "irene"];
 let combinedArray = arr1.concat(arr2);
 console.log("Combined Array:", combinedArray);
 
@@ -42,12 +42,14 @@ console.log("I love May:", months);
 
 /*Output:
 
-Combined array: [ 'Cecile', 'Lone', 'Emil', 'Tobias', 'Linus' ]
-I want to add fruit: [ 'Banana', 'Orange', 'Apple', 'Mango', 'Kiwi' ]
+Output:
+
+Combined Array: [ 'Santchay', 'Efrelle', 'Emil', 'Mark', 'irene' ]
+I want to add one fruit: [ 'Banana', 'Orange', 'Apple', 'Mango', 'Kiwi' ]
 Add numbers: [ 4, 5, 1, 2, 3 ]
-my favorite fruits: [ 'Banana', 'Orange', 'Apple', 'Mango' ]
+My favorite fruits: [ 'mango', 'Banana', 'melon' ]
 Reject numbers: [ 2, 3 ]
-Arrange my fruits: [ 'Apple', 'Banana', 'Mango', 'Orange' ]
-I like to sliced fruits: [ 'Banana', 'Mango' ]
-I love may: [ 'January', 'February', 'March', 'April', 'May' ]
+Arrange my fruits: [ 'Mango', 'banana', 'lemon', 'melon' ]
+I like to sliced fruits: [ 'banana', 'guava' ]
+I love May: [ 'January', 'February', 'March', 'April', 'May' ]
 
